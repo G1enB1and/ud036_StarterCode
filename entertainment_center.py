@@ -1,7 +1,9 @@
 import fresh_tomatoes
 import media
 
-"""The format to create a movie instance is "instance name" = media.Movie("Movie Name", "Movie Storyline", "URL to Poster Image", "URL to YouTube Movie Trailer") """
+"""The format to create a movie instance is "instance name" = media.Movie("Movie
+Name", "Movie Storyline", "URL to Poster Image", "URL to YouTube Movie Trailer")
+"""
 
 transcendence = media.Movie("Transcendence",
                         "a man uploads his consciousness into AI and transcendes his physical form before he dies.",
@@ -32,11 +34,14 @@ the_social_network = media.Movie("The Social Network",
                                  "https://images-na.ssl-images-amazon.com/images/I/41AVOQln14L.jpg",
                                  "https://www.youtube.com/watch?v=lB95KLmpLR4")
 
-#Create an array called movies that contains the names of each instance of the Movie class.
+#Create an array called movies that contains the names of each instance of the
+#Movie class.
 
-movies = [transcendence, live_free_or_die_hard, antitrust, pirates_of_silicon_valley, hackers, the_social_network]
+movies = [transcendence, live_free_or_die_hard, antitrust,
+          pirates_of_silicon_valley, hackers, the_social_network]
 
-#send the above movies array as an argument to the open_movies_page function within fresh_tomatoes.py
+#send the above movies array as an argument to the open_movies_page function
+#within fresh_tomatoes.py
 
 fresh_tomatoes.open_movies_page(movies)
 
