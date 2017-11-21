@@ -33,7 +33,7 @@ the_social_network = media.Movie("The Social Network",
 #antitrust.show_trailer()
 
 movies = [transcendence, live_free_or_die_hard, antitrust, pirates_of_silicon_valley, hackers, the_social_network]
-#fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)
 #print(media.Movie.VALID_RATINGS)
 #print(media.Movie.__doc__)
 #print(media.Movie.__name__)
