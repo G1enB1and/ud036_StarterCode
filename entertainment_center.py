@@ -40,14 +40,14 @@ the_social_network = media.Movie("The Social Network",
                                  "https://images-na.ssl-images-amazon.com/images/I/41AVOQln14L.jpg",  # NOQA
                                  "https://www.youtube.com/watch?v=lB95KLmpLR4")
 
-#Create an array called movies that contains the names of each instance of the
-#Movie class.
+# Create an array called movies that contains the names of each instance of the
+# Movie class.
 
 movies = [transcendence, live_free_or_die_hard, antitrust,
           pirates_of_silicon_valley, hackers, the_social_network]
 
-#send the above movies array as an argument to the open_movies_page function
-#within fresh_tomatoes.py
+# Send the above movies array as an argument to the open_movies_page function
+# within fresh_tomatoes.py
 
 fresh_tomatoes.open_movies_page(movies)
 
