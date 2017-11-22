@@ -36,7 +36,7 @@ hackers = media.Movie("Hackers",
 
 the_social_network = media.Movie("The Social Network",
                                  "The story of facebook's creator Mark "
-                                 "Zuckerberg.", 
+                                 "Zuckerberg.",
                                  "https://images-na.ssl-images-amazon.com/images/I/41AVOQln14L.jpg",  # NOQA
                                  "https://www.youtube.com/watch?v=lB95KLmpLR4")
 
@@ -50,5 +50,3 @@ movies = [transcendence, live_free_or_die_hard, antitrust,
 # within fresh_tomatoes.py
 
 fresh_tomatoes.open_movies_page(movies)
-
-
