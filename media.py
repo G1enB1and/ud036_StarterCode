@@ -7,7 +7,7 @@ class Movie():
         movie_title: a string representing the movie title.
         movie_storyline: a astring representing the movies storyline.
         poster_image: a string representing a url to the movies poster image.
-        youtube_trailer: a string representing  a url to the movies youtube
+        youtube_trailer: a string representing a url to the movies youtube
         trailer. 
     """
     
