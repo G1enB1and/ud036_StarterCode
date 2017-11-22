@@ -7,11 +7,11 @@ Get it [here](https://www.python.org/downloads/).
 
 ## Instructions
 To summerise the instructions in one line:
-Download, extract, run entertainment_center.py.
+Download, extract, run entertainment_center.py.  
 If you need further instructions, don't worry- just keep reading.
 
 First download these files by clicking the green button on GitHub that says
-Clone or download, then click Download Zip.
+Clone or download, then click Download Zip.  
 Next, you'll need to extract the zip file you downloaded. It will be named
 ud036_StarterCode.zip.
 
@@ -53,9 +53,9 @@ directory.)
 "entertainment_center.py" to run the program.
 
 Alternatively, you can type "idle2.7" to open IDLE's GUI interface,
-then click file, open file.
+then click file, open file.  
 Browse to where you downloaded ud036_StarterCode, then select the file
-named entertainment_center.py
+named entertainment_center.py  
 To run the program from IDLE, click "Run", then "Run Module",
 or use the hotkey F5.
 
